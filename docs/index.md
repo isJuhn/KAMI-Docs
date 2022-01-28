@@ -12,9 +12,9 @@
 | Killzone                                  | BCES01743 | Decent       | Needs testing.                             |
 | Killzone 2                                | BCES00081 | Decent       | Needs testing.                             |
 | Killzone 3                                | All US/EU | Decent       | Needs testing.                             |
-| NIER: Gestalt                             | BLUS30481 | Unknown      |                                            |
-| Persona 5                                 | All US/EU | Unknown      |                                            |
-| Red Dead Redemption                       | All US/EU | Unknown      |                                            |
+| NIER: Gestalt                             | BLUS30481 | Decent       | Has a known precision accuracy bug, but should be fine. Further testing welcome. |
+| Persona 5                                 | All US/EU | Decent       | Seems to work fine, misses the off switch for camera auto-follow, if it exists. Further testing welcome. |
+| Red Dead Redemption                       | All US/EU | Decent       | Isn't traced out fully, so it may not hook properly on every launch. Seems to work fine otherwise, further testing welcome. Weapon wheel support planned. |
 | Tales of Xillia                           | All US    | Good         |                                            |
 
 ## PS2
